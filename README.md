@@ -18,7 +18,6 @@ We have tested the Python code on the following software:
 
 Python 3.10.12
 
-
 How to run the program on Google Colab:
 
 1. Upload the following two files to any folder on Google Drive:
