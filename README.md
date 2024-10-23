@@ -8,7 +8,7 @@ This Python code (HMM_GitHub.ipynb) analyzes the two-dimensional trajectory of B
 
 Expected run time for the demo using “Spot_test.csv” and “Stat_test.csv” on a normal desktop computer is about 7 minutes. The following three results will be output when the analysis is successfully completed using the test data:
 
-  1) PDF_test.csv: Parameter table quantified by the EM algorithm 
+  1) Pdf_test.csv: Parameter table quantified by the EM algorithm 
 
   2) HMM_test.csv: Parameter table quantified by the HMM 
 
